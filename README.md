@@ -95,7 +95,7 @@ in this format update.
 </details>
 
 <details>
-<summary><b>🔹 Move Smart & TeraSense</b></summary>
+<summary><b>🔹 Finlytics – Smart Financial Analytics and Management Platform</b></summary>
 
 -Finlytics is a smart financial analytics platform that helps users track, analyze, and manage their finances through insightful data and visualizations.
 - **Tech Stack**: React.js, Node.js, Express.js, MongoDB, Python, and Machine Learning.
