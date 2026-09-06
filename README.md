@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/seelam-durga-prasad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/Durgaprasad044"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href=""><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href=""><img src="https://leetcode.com/u/Durgaprasad44/" alt="LeetCode"/></a>
 <a href="mailto:seelamdurgaprasad5442@gmail.com "><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://durgaprasad04portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>
 
@@ -70,25 +70,26 @@ I am a **Software Engineer**  specializing in robust backend systems, scalable f
 
 
 <details>
-<summary><b>🔹 Apter — AI Career Guidance Platform</b></summary>
+<summary><b>🔹 VORNIQ – AI-Powered Personal Finance Intelligence Agent</b></summary>
 
-An intelligent platform providing personalized career trajectories and upskilling pathways through skill mapping and industry data analysis.
-- **Tech Stack**: React, Node.js, Express, Python, Llama Models.
+- Vorniq is a multi-persona AI agent that connects users with specialized financial expert personas sharing a unified memory, making personal finance guidance smarter, more personalized, and more effective.
+- **Tech Stack**: Next.js, Express.js, TypeScript, Groq (Qwen 3-32B), Hindsight.
 
 </details>
 
 <details>
-<summary><b>🔹 Quantum Fin — Financial Data Analysis</b></summary>
+<summary><b>🔹 ATRIUS – AI-Powered Smart Networking Platform</b></summary>
 
-An advanced financial data analysis and predictive modeling platform for real-time market insights.
-- **Tech Stack**: Python, FastAPI, React, Tailwind CSS.
+- ATRIUS is an AI-based platform that connects people with relevant individuals based on their skills, interests, and goals, making professional networking smarter, faster, and more effective.
+in this format update.
+- **Tech Stack**: Next.js 14+ (App Router), React.js, Node.js, Express.js, TypeScript, Prisma ORM, PostgreSQL, REST APIs, and Llama Models.
 
 </details>
 
 <details>
 <summary><b>🔹 CyberShield — Automated Threat Detection</b></summary>
 
-An infrastructure vulnerability scanning and automated threat detection system designed for rapid incident response.
+- An infrastructure vulnerability scanning and automated threat detection system designed for rapid incident response.
 - **Tech Stack**: Python, Docker, Node.js.
 
 </details>
@@ -96,9 +97,8 @@ An infrastructure vulnerability scanning and automated threat detection system d
 <details>
 <summary><b>🔹 Move Smart & TeraSense</b></summary>
 
-- **TeraSense**: High-throughput sensor data processing system using edge computing.
-- **Move Smart**: AI-driven motion analysis and optimization tool utilizing OpenCV and YOLO.
-
+-Finlytics is a smart financial analytics platform that helps users track, analyze, and manage their finances through insightful data and visualizations.
+- **Tech Stack**: React.js, Node.js, Express.js, MongoDB, Python, and Machine Learning.
 </details>
 
 <br/>
@@ -108,20 +108,19 @@ An infrastructure vulnerability scanning and automated threat detection system d
 ## 💼 Professional Experience
 
 
-### Software Development Engineer Intern · **ThreepointOLabs**
+### Artificial Intelligence Intern ·  **Apex Neural**
 **`Past`**
-- Engineered robust backend services and optimized database queries, reducing API response latency and improving system throughput.
-- Contributed to the development of responsive frontend interfaces and collaborated across teams to deploy scalable features.
+- Gained hands-on experience with AI/ML concepts through practical projects involving data preprocessing, model training, and evaluation.
+- Assisted in developing and testing AI-based solutions while learning industry practices and collaborating with the team.
 
 <br/>
 
 ---
 
 ## 🎯 Achievements
-- Engineered Vorniq core AI document parsing engine, reducing legal document review time significantly.
-- Selected for [Insert Any Major Hackathon/Grant/Award, or delete this line].
-- Maintained a rigorous academic standing while simultaneously leading multiple engineering products.
-
+- Built VORNIQ, an AI-powered personal finance intelligence agent featuring multiple specialized financial expert personas with unified memory.
+- Secured 2nd place in a Cybersecurity Hackathon, competing with innovative solutions to real-world cybersecurity challenges.
+- Maintained a strong academic standing while working on multiple software and AI projects.
 <br/>
 
 ---
@@ -130,13 +129,14 @@ An infrastructure vulnerability scanning and automated threat detection system d
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Durgaprasad044-dot&theme=dark&hide_border=true&background=0D1117&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC&stroke=00000000&currStreakNum=E2E8F0&sideNums=94A3B8" width="48%"/>
-<img src="https://komarev.com/ghpvc/?username=Ravitheja1289-dot&style=for-the-badge&color=212121&labelColor=0D1117&label=PROFILE+VIEWS" width="25%" style="margin-bottom: 20px;" />
+<img src="https://streak-stats.demolab.com?user=Durgaprasad044&theme=dark&hide_border=true&background=0D1117&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC&stroke=00000000&currStreakNum=E2E8F0&sideNums=94A3B8" width="48%"/>
+
+<img src="https://komarev.com/ghpvc/?username=Durgaprasad044&style=for-the-badge&color=212121&labelColor=0D1117&label=PROFILE+VIEWS" width="25%" style="margin-bottom: 20px;" />
 
 <br/><br/>
 
 <!-- Reliable Contribution Graph Alternative -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Durgaprasad044-dot&theme=nord_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Durgaprasad044&theme=nord_dark" width="100%"/>
 
 <br/><br/>
 
